@@ -1,0 +1,2 @@
+C:\Users\WizarDiger\source\repos\OpenGL_LAB2(GLUT)\Debug\OpenGL_LAB2(GLUT).exe
+C:\Users\win10-PC\Desktop\OpenGL_LAB2(GLUT)\Debug\OpenGL_LAB2(GLUT).exe
